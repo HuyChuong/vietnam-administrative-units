@@ -9,6 +9,7 @@ Bộ dữ liệu mở về đơn vị hành chính Việt Nam từ 01/07/2025: 3
 - **Giấy phép:** [CC BY 4.0](LICENSE), xem [ghi nguồn](#ghi-nguồn) và [NOTICE](NOTICE)
 - **Tra cứu trực tuyến, đổi địa chỉ cũ sang mới:** <https://diachiviet.com/doi-dia-chi-moi/>
 - **Trang dữ liệu:** <https://diachiviet.com/du-lieu-mo/>
+- **Bản trên Hugging Face:** <https://huggingface.co/datasets/chuongkt/vietnam-administrative-units>
 
 ## Các file
 
