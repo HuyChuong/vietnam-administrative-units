@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Nếu dùng dữ liệu này, vui lòng ghi nguồn. If you use this data, please cite it."
+title: "Đơn vị hành chính Việt Nam sau sắp xếp 2025 (Vietnam administrative units after the 2025 reorganisation)"
+type: dataset
+authors:
+  - name: "Địa Chỉ Việt"
+    website: "https://diachiviet.com/"
+license: CC-BY-4.0
+url: "https://diachiviet.com/du-lieu-mo/"
+date-released: 2026-11-02
+keywords:
+  - vietnam
+  - administrative-units
+  - provinces
+  - wards
+  - postal-codes
+  - open-data
